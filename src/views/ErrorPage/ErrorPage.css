@@ -1,0 +1,12 @@
+.errorBanner{
+    background: #F4FAFF;
+    height: 326px;
+    padding: 46px 0 40px;
+}
+.errorBanner h3{
+    margin-top: 30px;
+    color: #16193a;
+}
+.errorList{
+    padding: 40px 0;
+}
